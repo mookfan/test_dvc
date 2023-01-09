@@ -1,0 +1,5 @@
+outs:
+- md5: 5442559af001229073970fb801939b0e.dir
+  size: 112582
+  nfiles: 5
+  path: cat
