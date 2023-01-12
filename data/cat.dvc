@@ -1,5 +1,5 @@
 outs:
-- md5: 5442559af001229073970fb801939b0e.dir
-  size: 112582
-  nfiles: 5
+- md5: de09cf5dd7c3148cadeb3c9ff42d338c.dir
+  size: 58596
+  nfiles: 2
   path: cat
